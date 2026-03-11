@@ -4,9 +4,9 @@
 ## Objective:
 - Build a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. The goal is to take DICOM X-ray images as input and classify them as:
 
--- 0 -> Normal
+    -- 0 -> Normal
 
--- 1 -> Pneumonia
+    -- 1 -> Pneumonia
 
 - Input: X-ray image (grayscale, size standardized)
 
